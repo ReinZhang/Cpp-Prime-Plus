@@ -1,0 +1,6 @@
+﻿  waiting.cpp
+e:\张胤民\c++语言\chapter4\chapter4\waiting.cpp(10): warning C4244: “初始化”: 从“float”转换到“clock_t”，可能丢失数据
+  4.22 delete.cpp
+  正在生成代码...
+  chapter4.vcxproj -> E:\张胤民\C++语言\chapter4\Debug\chapter4.exe
+  chapter4.vcxproj -> E:\张胤民\C++语言\chapter4\Debug\chapter4.pdb (Full PDB)

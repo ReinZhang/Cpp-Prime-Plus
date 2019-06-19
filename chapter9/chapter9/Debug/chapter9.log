@@ -1,0 +1,7 @@
+﻿  9.13 namesp.cpp
+  9.12 namesp.cpp
+  9.10 newplace.cpp
+  正在生成代码...
+9.13 namesp.obj : error LNK2019: 无法解析的外部符号 "void __cdecl pers::ShowPerson(struct pers::Person const &)" (?ShowPerson@pers@@YAXABUPerson@1@@Z)，该符号在函数 "void __cdecl another(void)" (?another@@YAXXZ) 中被引用
+9.13 namesp.obj : error LNK2019: 无法解析的外部符号 "double __cdecl debts::sumDebt(struct debts::Debt const * const,int)" (?sumDebt@debts@@YANQBUDebt@1@H@Z)，该符号在函数 "void __cdecl other(void)" (?other@@YAXXZ) 中被引用
+E:\张胤民\C++语言\chapter9\Debug\chapter9.exe : fatal error LNK1120: 2 个无法解析的外部命令

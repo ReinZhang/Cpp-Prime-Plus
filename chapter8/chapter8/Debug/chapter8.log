@@ -1,0 +1,4 @@
+﻿  8.15 choices.cpp
+e:\张胤民\c++语言\chapter8\chapter8\8.15 choices.cpp(26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  chapter8.vcxproj -> E:\张胤民\C++语言\chapter8\Debug\chapter8.exe
+  chapter8.vcxproj -> E:\张胤民\C++语言\chapter8\Debug\chapter8.pdb (Full PDB)
